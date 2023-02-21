@@ -4,6 +4,7 @@
 - [Malav Shah](https://github.com/malavshah9)
 - [Chaitanya Dange](https://github.com/chaitanya-dange)
 - [Harshit Jain](https://github.com/Harshit28j)
+- [Kumar Raj Gupta](https://github.com/kumarRaj-Gupta)
 - [Xanthium]
 - [Sergio Thompson] (https://github.com/SergioJThompson)
 - [CharlyMech](https://github.com/CharlyMech)
